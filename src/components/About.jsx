@@ -40,7 +40,7 @@ import React from "react";
             </button>
           </div>
 
-          <div className="w-1/2  bg-red-500 rounded-3xl ">
+          <div className="w-1/2   rounded-3xl ">
             <img
               className="rounded-3xl"
               src="https://ochi.design/wp-content/uploads/2022/05/Homepage-Photo-663x469.jpg"
